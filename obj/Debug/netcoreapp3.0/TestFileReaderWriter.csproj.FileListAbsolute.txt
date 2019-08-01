@@ -1,0 +1,14 @@
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.csprojAssemblyReference.cache
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.csproj.CoreCompileInputs.cache
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.AssemblyInfoInputs.cache
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.AssemblyInfo.cs
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.exe
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\Test\testFile5.txt
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.deps.json
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.runtimeconfig.json
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.runtimeconfig.dev.json
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.dll
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\TestFileReaderWriter.pdb
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.dll
+C:\Dusty_Open\TestFileReaderWriter\obj\Debug\netcoreapp3.0\TestFileReaderWriter.pdb
+C:\Dusty_Open\TestFileReaderWriter\bin\Debug\netcoreapp3.0\config\LogFileNames.txt

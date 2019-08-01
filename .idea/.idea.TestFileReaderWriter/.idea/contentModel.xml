@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\fox21\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\fox21\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_TestFileReaderWriter.-1704288852.00" t="ExcludeRecursive" />
+    <e p="H:\TestFileReaderWriter" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="config" t="Include">
+        <e p="LogFileNames.txt" t="Include" />
+      </e>
+      <e p="FoxExtensions.cs" t="Include" />
+      <e p="LogFileInfo.cs" t="Include" />
+      <e p="MonitorThreadController.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="TestFileReaderWriter.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Repo.cs" t="Include" />
+      <e p="Test" t="Include">
+        <e p="testFile5.txt" t="Include" />
+        <e p="TestRepo.cs" t="Include" />
+      </e>
+      <e p="TestFileReaderWriter.csproj" t="IncludeRecursive" />
+      <e p="TestFileReaderWriter.sln" t="IncludeFlat" />
+      <e p="TestRepo.cs" t="Include" />
+    </e>
+  </component>
+</project>
